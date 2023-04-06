@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://smith2020:$HF_TOKEN@huggingface.co/spaces/smith2020/WhatsApp-chat-analysis-summary main
+        run: git push --force https://smith2020:$HF_TOKEN@huggingface.co/spaces/smith2020/WhatsApp-chat-analysis-summary main
