@@ -1,5 +1,5 @@
 
-# Whatsapp Chat Analysis And Summary
+# 📊Whatsapp Chat Analysis And Summary💬
 
 In this project, I developed a web application using the Streamlit library to perform WhatsApp chat analysis. The application offers chat analysis, visualization, and summarization functionalities for conversations within the past 24 hours. Leveraging the huggingface pipeline and other supporting libraries, the webapp provides valuable insights into the chat content and user interactions.
 
